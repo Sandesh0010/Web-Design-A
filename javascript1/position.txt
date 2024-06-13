@@ -1,0 +1,33 @@
+<div class="parent">
+  <div class="child">child</div>
+</div>
+
+.parent
+{
+  background-color:red;
+  height:200px;
+  position:relative;
+  
+  
+}
+.child
+{
+  background-color:yellow;
+  height:100px;
+  width:100px;
+  position:absolute;
+   top:30%;
+  left:40%;
+  //bottom:0;
+  //right:0;
+  
+ display:none;
+ // display:visible;
+  // display:hide;
+}
+
+
+
+
+
+
